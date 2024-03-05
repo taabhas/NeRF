@@ -24,7 +24,7 @@ The implementation code is given in Wrapper.ipynb.
 
 ### Results
 <p align="center">
-  <img src="Results\NeRF.gif" alt="NeRF" width="500"/>
+  <img src="Results\NeRF.gif" alt="NeRF" width="350"/>
 </p>
 
 ### References
@@ -34,6 +34,7 @@ Barron, Ravi Ramamoorthi, Ren Ng, ”NeRF: Representing Scenes as
 Neural Radiance Fields for View Synthesis.” [link](https://arxiv.org/abs/2003.08934)
 3. https://towardsdatascience.com/its-nerf-from-nothing-build-a-vanilla-nerf-with-pytorch-7846e4c45666
 4. https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/nerf.ipynb
+5. https://www.matthewtancik.com/nerf
 
 
 
