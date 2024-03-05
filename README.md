@@ -11,7 +11,7 @@ This project is an implementation of NeRF using the lego data for NeRF from the 
 
 ### Approach
 
-The basic NeRF approach represents a scene using a fullyconnected (non-convolution) deep neural network, whose input
+The basic NeRF approach represents a scene using a fully-connected (non-convolution) deep neural network, whose input
 is a single continuous 5D coordinate (spatial location (x,y,z)
 and viewing direction θ, ψ) and whose output is the volume
 density and view-dependent emitted radiance at that spatial
